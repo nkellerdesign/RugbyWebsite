@@ -15,8 +15,8 @@
 }
 
 body{
-	background-color:#1C1C1C;
-	color:white;
+	background-color:#ecf0f1;
+	color:#34495e;
 }
 
 ul{
@@ -58,8 +58,17 @@ h2{
 	/*margin-top:100px;*/
 }
 
-.teampic{
+td{
+	border-bottom: solid white 1px;
+}
 	
+th{
+	border-bottom: solid white 5px;
+}
+
+.upcomingevents{
+	background-color:
+}
 
 .teampic{
 	border: 5px solid #747573;
